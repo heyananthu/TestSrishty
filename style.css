@@ -1,0 +1,21 @@
+.main{
+    border: solid black;
+    width: 420px;
+    height: 250px;
+    margin-left: 500px;
+    margin-top:140px;
+    text-align: center;
+}
+.submain{
+    position: absolute;
+    left:40%;
+    top:28%;
+
+
+}
+.main input{
+    margin-top: 20px;
+}
+button{
+    margin-top: 20px;
+}
